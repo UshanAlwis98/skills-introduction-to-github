@@ -4,7 +4,7 @@
 
 # Hey, Ushan! 👋
 
-### Welcome to your GitHub Learning Journey. 🚀
+### Welcome to your GitHub Learning Journey 🚀
 
 _Mona has prepared your exercise and learning path guide._
 Take your time, explore at your own pace, and enjoy learning GitHub! 💚
